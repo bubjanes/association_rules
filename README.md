@@ -3,7 +3,7 @@
 Brandon Janes
 22 agosto 2019
 
-Reglas de Asociación Práctico: Diplomatura de Ciencia de Datos
+Reglas de Asociación Práctico: [*Diplomatura* in Data Science and Machine Learning](http://diplodatos.famaf.unc.edu.ar/)
 Valeria Rulloni, Georgina Flesia, Laura Alonso Alemany
 ***FaMAF|UNC***
 
